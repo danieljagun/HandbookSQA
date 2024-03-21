@@ -5,10 +5,10 @@ Sprint Planning is a crucial event in Scrum that kicks off the sprint. Its main 
 
 ![Planning](sprintplanning.png)
 
-Insights from Resources
-**<u>Estimation Techniques</u>**: Dive deep into how teams can use various techniques to estimate work more accurately, such as time-based estimation, story points, and planning poker. Expanding on the concept of aligning team capabilities and organizing backlog tasks, this discussion introduces techniques to accurately measure the required effort and duration for specific activities.
+## Insights from Resources
+**<u>Estimation Techniques</u>**: Dive deeper into how teams can use various techniques to estimate work more accurately, such as time-based estimation, story points, and planning poker. Expanding on the concept of aligning team capabilities and organizing backlog tasks, this discussion introduces techniques to accurately measure the required effort and duration for specific activities.
 
-**<u>Collaboration and Communication</u>**: Highlit the importance of effective communication and collaboration during the sprint planning process. Emphasize how open dialogue, active participation and ensuring that all team members have a voice in the planning process can lead to more engaged teams and better-planned sprints.
+**<u>Collaboration and Communication</u>**: Highlight the importance of effective communication and collaboration during the sprint planning process. Emphasize how open dialogue, active participation and ensuring that all team members have a voice in the planning process can lead to more engaged teams and better-planned sprints.
 
 
 ### References
