@@ -8,7 +8,25 @@ The Sprint Retrospective concludes each sprint, offering the team an opportunity
 
 **<u>Reflective Learning and Team Bonding</u>**: Highlight the retrospective's role is not just a process done as part of scrum but helps the team. Reflecting on the shared experiences and learnings as a team can help strengthen team cohesion and foster a culture of mutual respect and support.
 
+## Best Practices and Guidelines
+- Encouraging Open Communication: Tips for creating a safe space where team members feel comfortable sharing feedback.
+
+- Identifying and Prioritizing Improvements: Strategies for narrowing down feedback to actionable items that the team can realistically implement.
+
+- Follow-through on Action Items: Emphasize the importance of assigning responsibility for improvement actions and reviewing their progress in subsequent sprints.
+
+## Common Pitfalls to Avoid
+- Skipping retrospectives or not taking them seriously. 
+- Allowing the retrospective to become a blame game instead of a constructive feedback session. 
+- Failing to implement agreed-upon improvements.
+
 ### References
 https://www.atlassian.com/team-playbook/plays/retrospective
 
 https://miro.com/blog/resources/visual-collaboration-agile-development-guide/sprint-retrospective/
+
+https://www.projectmanager.com/blog/effective-sprint-retrospective
+
+https://www.scrum.org/resources/what-is-a-sprint-retrospective
+
+https://blog.logrocket.com/product-management/what-is-a-sprint-retrospective-agile/
