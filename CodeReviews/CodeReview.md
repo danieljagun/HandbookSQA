@@ -2,6 +2,8 @@
 
 Code reviews are a critical aspect of the software development process, involving the inspection of code changes made by one team member before they are merged into the main codebase. This collaborative practice not only helps in identifying bugs but also significantly contributes to enhancing code quality, ensuring consistency across the codebase, and promoting knowledge sharing among team members. Through code reviews, developers can offer constructive feedback, mentorship, and learning opportunities, ultimately leading to the creation of robust and maintainable software systems.
 
+![Reviews](codeReviews.png)
+
 ## Guidelines for Effective Code Reviews:
 
 **<u>Set Clear Objectives:</u>**
@@ -22,6 +24,19 @@ Code reviews are a critical aspect of the software development process, involvin
 
   2. Can you configure the code to quickly change data values?
 
+
+
+### Common Pitfalls to Avoid:
+**<u> Nitpicking </u>** 
+
+While it's essential to maintain code quality, overly nitpicking minor style issues can detract from the primary focus of the review and lead to frustration for both the author and the reviewer. It's crucial to prioritise feedback on issues that significantly impact code quality or functionality.
+
+
+**<u>Lack of Ownership </u>** 
+
+Both the author and the reviewer should take ownership of the code changes and follow through on addressing feedback. Without a sense of ownership, there may be a tendency to overlook or dismiss valuable suggestions for improvement.
+
+
 ### References
 
 https://onlinelibrary.wiley.com/doi/10.1111/jeb.14230
@@ -29,3 +44,8 @@ https://onlinelibrary.wiley.com/doi/10.1111/jeb.14230
 https://www.win.tue.nl/~aserebre/CSCW2023.pdf
 
 https://www.pluralsight.com/blog/software-development/code-review-checklist
+
+https://www.atlassian.com/blog/add-ons/code-review-best-practices
+
+https://dev.to/kimmobrunfeldt/16-best-practices-to-make-your-code-reviews-better-4m09
+
