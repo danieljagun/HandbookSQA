@@ -3,7 +3,7 @@
 | **Daniel**    | - Created the project plan.                           | Victor, Cornelius |
 |               | - Did formatting across the handbook.                 |                   |
 |               | - Wrote parts of code review, helped with layout.     |                   |
-|               | - Double checked all files include of errors.         |                   |
+|               | - Double checked all files, to make sure no errors.   |                   |
 | **Cornelius** | - Wrote most of the section Code Reviews.             | Victor, Daniel    |
 |               | - Worked on sprint retro file, adding and formatting. |                   |
 |               | - Arranged meetings for the team.                     |                   |
