@@ -24,14 +24,14 @@
         - Task 1: Outline the structure and content of each handbook section based on research.
         - Task 2: Begin drafting content for each topic, incorporating key guidelines and examples.
         - Task 3: Review and refine drafts to ensure clarity, conciseness, and alignment with the handbook's purpose.
-        - Team Member(s):
+        - Team Member(s): Victor
 
 ## 3. Review and Feedback:
     Internal Review:
         - Task 1: Share draft sections with team members for review and feedback.
         - Task 2: Collect and incorporate feedback to improve the quality and accuracy of handbook content.
         - Task 3: Ensure consistency of tone, style and formatting across all sections.
-        - Team Member(s):
+        - Team Member(s): Cornelius
 
 ## 4. Formatting and Design:
     Visual Enhancements:
@@ -43,4 +43,4 @@
     Editing and Proofreading:
         - Task 1: Conduct final editing to ensure no errors or inconsistencies..
         - Task 2: Prepare the handbook for submission
-        - Team Member(s): 
+        - Team Member(s): Daniel, Victor, Cornelius
