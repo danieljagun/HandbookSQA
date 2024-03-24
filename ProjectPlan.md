@@ -44,3 +44,23 @@
         - Task 1: Conduct final editing to ensure no errors or inconsistencies..
         - Task 2: Prepare the handbook for submission
         - Team Member(s): Daniel, Victor, Cornelius
+
+# Team Retrospective
+
+### What Worked Well?
+- Everyone done their parts well.
+- The members of the team worked well together.
+- Valuable learning from each task
+
+### What Didn't Go Well?
+- In the start we weren't exactly doing a strict Gitflow workflow.
+- Sometimes there was a lack of communication.
+
+### Improvements for Future Projects
+- Ensure stricter following of Gitflow workflow from the start of project/sprint.
+- Implementing better structure for status updates.
+
+### Conclusion
+- Our journey in creating the handbook was informative and we gained valuable learning experiences  about Scrum and version control as a team. We will use the learning to apply in our future projects and teamwork.
+
+
